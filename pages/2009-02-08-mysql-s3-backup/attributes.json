@@ -1,0 +1,4 @@
+{
+  "title": "Backing up your MySQL database to S3",
+  "categories": ["EC2", "MySQL", "Ruby", "S3", "Systems"]
+}

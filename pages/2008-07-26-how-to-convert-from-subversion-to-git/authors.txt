@@ -1,0 +1,2 @@
+pdowman = Paul Dowman <paul@hellospambot.com>
+svnuser2 = Another User <anotheruser@whatever.com>
