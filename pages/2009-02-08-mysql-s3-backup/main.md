@@ -2,7 +2,7 @@ Here's a simple recipe, with [complete code available on Github][10] (written
 in Ruby), to automatically back up your MySQL database to [Amazon's S3 storage
 service][11], with regular incremental backup.
 
-   [10]: http://github.com/pauldowman/blog_code_examples/tree/master/mysql_s3_backup
+   [10]: https://github.com/pauldowman/pauldowman.com-content/tree/master/pages/2009-02-08-mysql-s3-backup
    [11]: http://aws.amazon.com/s3/
 
 _This article appears in [The S3 Cookbook][12], an e-book written by [Scott
