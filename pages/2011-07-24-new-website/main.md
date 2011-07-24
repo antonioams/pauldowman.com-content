@@ -8,7 +8,7 @@ Balisong solves the many problems that occur when including code samples in a bl
 
 Balisong stores the articles, along with all included code samples and images, in a Git repository. (You can follow the content of this blog [here](https://github.com/pauldowman/pauldowman.com-content)). Balisong posts are written using one of several rich text formats (I use markdown), and edited in whichever editor you like. Simply commit the new article to the local Git repo and then "git push" to push the content live. 
 
-There are many static site generators that let you do this (e.g. [Jekyll](http://jekyllrb.com/)), but I wanted more than a static site. As a software developer I feel that my site should be a showcase for my skills, or at least a place to try out new things.
+There are many static site generators that let you do this (e.g. [Jekyll](http://jekyllrb.com/)), but I wanted more than a static site. As a software developer my site should be a showcase for my skills, or at least a place to try out new things.
 
 So needless to say I'm now using Balisong for this site, I hope you like it! If you want to use it for your website you can find the code and documentation [on GitHub](https://github.com/pauldowman/balisong), and feel free to ask me if the documentation is unclear (it will be improved soon!) or if you have questions.
 
