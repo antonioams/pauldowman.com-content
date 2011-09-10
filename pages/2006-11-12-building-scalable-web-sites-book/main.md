@@ -1,10 +1,12 @@
-When [Building Scalable Web Sites][10] came out earlier this year (written by
-[Cal Henderson][11] of [Flickr][12]) I was immediately interested because I'm
-totally fascinated with the architecture of very large scale systems. But a
-quick browse through the [table of contents][13] changed my mind, it looked
-really basic and there were only two chapters dedicated to the "scalable" part
-of the subject. I was interested because the title was "Building _Scalable_
-Web Sites", not just "Building Web Sites".
+When [Building Scalable Web
+Sites](http://www.amazon.com/gp/product/0596102356/ref=as_li_ss_tl?ie=UTF8&tag=pauldowmancom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596102356)
+came out earlier this year (written by [Cal Henderson][11] of [Flickr][12]) I
+was immediately interested because I'm totally fascinated with the architecture
+of very large scale systems. But a quick browse through the [table of
+contents][13] changed my mind, it looked really basic and there were only two
+chapters dedicated to the "scalable" part of the subject. I was interested
+because the title was "Building _Scalable_ Web Sites", not just "Building Web
+Sites".
 
    [10]: http://www.oreilly.com/catalog/web2apps/index.html
    [11]: http://www.iamcal.com/
